@@ -1,0 +1,37 @@
+PODS:
+  - NSDate-Escort (1.2.0)
+  - UITextSubClass (0.0.3):
+    - UITextSubClass/Core
+    - UITextSubClass/UITextFieldWithDatePicker
+    - UITextSubClass/UITextFieldWithDecimalPad
+    - UITextSubClass/UITextFieldWithNumberPad
+    - UITextSubClass/UITextFieldWithPicker
+    - UITextSubClass/UITextFieldWithPickerBase
+    - UITextSubClass/UITextFieldWithToolbar
+    - UITextSubClass/UITextViewWithToolbar
+  - UITextSubClass/Core (0.0.3)
+  - UITextSubClass/UITextFieldWithDatePicker (0.0.3):
+    - UITextSubClass/Core
+    - UITextSubClass/UITextFieldWithPickerBase
+  - UITextSubClass/UITextFieldWithDecimalPad (0.0.3):
+    - UITextSubClass/Core
+  - UITextSubClass/UITextFieldWithNumberPad (0.0.3):
+    - UITextSubClass/Core
+  - UITextSubClass/UITextFieldWithPicker (0.0.3):
+    - UITextSubClass/Core
+    - UITextSubClass/UITextFieldWithPickerBase
+  - UITextSubClass/UITextFieldWithPickerBase (0.0.3)
+  - UITextSubClass/UITextFieldWithToolbar (0.0.3):
+    - UITextSubClass/Core
+  - UITextSubClass/UITextViewWithToolbar (0.0.3):
+    - UITextSubClass/Core
+
+DEPENDENCIES:
+  - NSDate-Escort
+  - UITextSubClass
+
+SPEC CHECKSUMS:
+  NSDate-Escort: f940f313d71ac25a20c126170074b576df391340
+  UITextSubClass: 7b46b0934260e609291723489674d4fd3a295a00
+
+COCOAPODS: 0.26.1
